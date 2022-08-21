@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/contadorClicks/static/css/main.a678937d.css",
+    "main.js": "/contadorClicks/static/js/main.aea7974f.js",
+    "static/js/787.0e269272.chunk.js": "/contadorClicks/static/js/787.0e269272.chunk.js",
+    "index.html": "/contadorClicks/index.html",
+    "main.a678937d.css.map": "/contadorClicks/static/css/main.a678937d.css.map",
+    "main.aea7974f.js.map": "/contadorClicks/static/js/main.aea7974f.js.map",
+    "787.0e269272.chunk.js.map": "/contadorClicks/static/js/787.0e269272.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a678937d.css",
+    "static/js/main.aea7974f.js"
+  ]
+}
